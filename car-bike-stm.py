@@ -1,3 +1,8 @@
+import os
+print("Current Location:", os.getcwd())
+print("Available Files:", os.listdir()) 
+print("Train Folder Exists;",
+      os.path.exists("vehical classifiaction/train"))
 import tensorflow as tf
 # Load images
 data = tf.keras.utils.image_dataset_from_directory(
