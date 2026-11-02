@@ -1,5 +1,5 @@
 pillow
-stremlit
+streamlit
 tensoflow
-opencv-pyhton-headless
+opencv-python-headless
 numpy
